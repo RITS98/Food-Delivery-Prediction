@@ -6,7 +6,7 @@ To create an effective prediction model, data needs to cleaned meticulously in o
 
 Nest, feature engineering is used to derive valuable insights from the dataset. By considering factors such as delivery person's age, ratings, location coordinates, and time-related variable, we aimed to identify the key elements that affect the delivery time. These engineered features enhance the model's predictive power.
 
-We the built the predictive model using regression algorithms like linear regression, decision tree, random forest and XGBoost. The model was trained on a subset of the dataset using cross validation techniques to ensure robustness. WE evaluated te model's accuracy with metrics such as mean squared error (MSE) and R-squared (R2) score.
+I have built the predictive model using regression algorithms like linear regression, decision tree, random forest and XGBoost. The model was trained on a subset of the dataset using cross validation techniques to ensure robustness. WE evaluated te model's accuracy with metrics such as mean squared error (MSE) and R-squared (R2) score.
 
 The food delivery time prediction model enables business to optimize their operations and enhance the overall delivery experience for their customers.
 
